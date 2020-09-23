@@ -1,0 +1,4 @@
+#!/bin/bash
+#writes its pid to the pid file :
+echo $$>pid
+
